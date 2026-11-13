@@ -5,6 +5,7 @@ header.site .name { font-size: 26px; font-weight: bold; margin: 0; }
 header.site .tag { margin: 6px 0 0; font-size: 15px; color: #cdd8ea; }
 header.site nav { margin-top: 14px; font-size: 15px; }
 header.site nav a { margin-right: 18px; text-decoration: underline; }
+header.site .logo { width: 72px; height: 72px; display: block; margin-bottom: 12px; }
 h1 { font-size: 30px; line-height: 1.25; color: #1F3864; margin: 0 0 8px; }
 h2 { font-size: 22px; color: #1F3864; margin: 28px 0 8px; }
 p { margin: 0 0 14px; }
